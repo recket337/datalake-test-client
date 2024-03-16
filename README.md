@@ -1,7 +1,7 @@
 ![image](https://github.com/recket337/datalake-test-client/assets/24693696/bab4a77e-5f43-4143-bf00-f25648f6fddf)
 
 ```
-import { useState } from "react";
+import { useState } from "react";
 import Pagination from "@mui/material/Pagination";
 import { IEntepriseUsersResponse } from "../../../interfaces/users.interface";
 import useEnterprise from "../../../hooks/useEnterprise;
